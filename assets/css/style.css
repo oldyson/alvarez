@@ -769,7 +769,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: url("../img/V2_KOPI.png") center center;
+  background: url("https://raw.githubusercontent.com/oldyson/alvarez/main/assets/img/kopi-herov3.jpg") center center;
   background-size: cover;
   position: relative;
   padding: 80px 0;
@@ -853,7 +853,6 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color:  ;
 }
 
 .about .content p:last-child {
