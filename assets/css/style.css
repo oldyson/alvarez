@@ -461,7 +461,7 @@ h6 {
   width: 100%;
   height: 100vh;
   /*background-color: #0c0b09;*/
-  background: url("/assets/img/our_team/barista2.jpg") top center;
+  background: url("https://raw.githubusercontent.com/oldyson/alvarez/main/assets/img/our_team/barista2.jpg") top center;
   background-size: cover;
   position: relative;
   padding: 0;
