@@ -460,8 +460,8 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background-color: #0c0b09;
-  /*background: url("../img/kopi-hero.png") top center;*/
+  /*background-color: #0c0b09;*/
+  background: url("/assets/img/our_team/barista2.jpg") top center;
   background-size: cover;
   position: relative;
   padding: 0;
